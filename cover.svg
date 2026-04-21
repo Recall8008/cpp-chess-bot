@@ -109,18 +109,13 @@
   </g>
 
   <g transform="translate(570 122)">
-    <text x="0" y="0" fill="#8ca0c2" font-size="26" font-family="Avenir Next, Helvetica Neue, sans-serif" letter-spacing="4">
-      SHAREABLE BROWSER CHESS
+  
     </text>
     <text x="0" y="94" fill="#ffffff" font-size="78" font-family="Baskerville, Georgia, serif">
       Mac Chess Bot
     </text>
-    <text x="0" y="166" fill="#d4def0" font-size="30" font-family="Avenir Next, Helvetica Neue, sans-serif">
-      Clean board. Built-in bot. Easy GitHub Pages link.
     </text>
     <rect x="0" y="216" width="416" height="64" rx="32" fill="#101725" stroke="#63d2a1" stroke-opacity="0.35"/>
-    <text x="28" y="257" fill="#cfe7da" font-size="24" font-family="Menlo, monospace">
-      yourusername.github.io/cpp-chess-bot
     </text>
   </g>
 </svg>
