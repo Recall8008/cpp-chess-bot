@@ -114,8 +114,6 @@
     <text x="0" y="94" fill="#ffffff" font-size="78" font-family="Baskerville, Georgia, serif">
       Mac Chess Bot
     </text>
-    </text>
     <rect x="0" y="216" width="416" height="64" rx="32" fill="#101725" stroke="#63d2a1" stroke-opacity="0.35"/>
-    </text>
   </g>
 </svg>
