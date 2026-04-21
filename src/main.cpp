@@ -336,7 +336,7 @@ private:
             {{-1, 0}}, {{1, 0}}, {{0, -1}}, {{0, 1}}
         }};
         addSlidingMoves(moves, row, col, directions);
-    }
+
 
     template <std::size_t N>
     void addSlidingMoves(
